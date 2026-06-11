@@ -15,3 +15,7 @@ This is the [notebook](https://github.com/RedaEssawy/technical-discussion/blob/3
 ### Images
 
 <img width="896" height="387" alt="Image" src="https://github.com/user-attachments/assets/611ecb8b-edb2-4f14-b50c-e27c62b82073" />
+
+
+## Lab1 
+This is the [lab1-note](https://github.com/RedaEssawy/technical-discussion/blob/f2d878f654d802820a2755d3425d8e6bb4dc8982/Practice_Markdown.ipynb)
